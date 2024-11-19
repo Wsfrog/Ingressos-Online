@@ -2,6 +2,8 @@
 
 Bem-vindo ao sistema de gerenciamento de ingressos, uma solução completa para usuários que desejam comprar ingressos e administradores que precisam gerenciar bandas e eventos com eficiência. 
 
+DESENVOLVEDORES:
+
 ## Funcionalidades Principais 🛠️
 
 ### Para Usuários:
