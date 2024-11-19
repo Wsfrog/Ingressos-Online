@@ -2,7 +2,41 @@
 
 Bem-vindo ao sistema de gerenciamento de ingressos, uma solução completa para usuários que desejam comprar ingressos e administradores que precisam gerenciar bandas e eventos com eficiência. 
 
-DESENVOLVEDORES:
+# Participantes do Projeto 👥
+
+O sistema de gerenciamento de ingressos foi desenvolvido de forma colaborativa por uma equipe de programadores Full Stack, onde todas as funcionalidades foram realizadas em conjunto. Trabalhamos lado a lado em cada etapa do projeto, unindo esforços para garantir qualidade e eficiência.
+
+## Equipe de Desenvolvimento 💻
+
+### Participantes:
+1. Wesley Oliveira da Silva - https://github.com/Wsfrog  
+2. André Rodrigues Miranda Júnior - https://github.com/Andre-Rodriguesjr  
+3. João Pedro Ferreiro Reduzino -  https://github.com/JotaPe-dev
+
+### Contribuições Conjuntas:
+- **Back-end**:
+  - Estruturação do banco de dados MySQL com tabelas otimizadas para operações CRUD.
+  - Desenvolvimento do sistema de autenticação (login e registro).
+  - Implementação de funcionalidades avançadas no carrinho de compras, como cálculo de totais e gerenciamento dinâmico.
+  - Criação de consultas SQL utilizando `JOIN` para facilitar relatórios administrativos e gestão de compras.
+
+- **Front-end**:
+  - Desenvolvimento de páginas responsivas utilizando HTML, CSS e JavaScript.
+  - Design intuitivo para uma melhor experiência do usuário, com validações e interatividade.
+  - Estilização avançada para o gerenciamento de ingressos e bandas.
+
+- **Administração do Sistema**:
+  - Implementação de ferramentas para adicionar bandas e ingressos, com suporte para imagens via URL.
+  - Criação de relatórios detalhados para visualização de dados de compras e usuários.
+
+### Tecnologias Utilizadas:
+- **Linguagens**: PHP, SQL, HTML, CSS, JavaScript.  
+- **Banco de Dados**: MySQL.  
+- **Ferramentas**: XAMPP/WAMP para desenvolvimento local.
+
+---
+
+Desenvolvemos o projeto de forma colaborativa, unindo nossas habilidades e criatividade para criar uma aplicação funcional e robusta. O trabalho em equipe foi essencial para o sucesso desta solução. 🎉  
 
 ## Funcionalidades Principais 🛠️
 
